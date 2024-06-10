@@ -2,6 +2,7 @@ I apologize for the disorganization.
 INSTRUCTION: 
 
 signin.php is the main connection to proceed to the dashboard.
+It's found in pages folder - search - signin.php
 USERNAME: admin
 PASSWORD: 12345
 
