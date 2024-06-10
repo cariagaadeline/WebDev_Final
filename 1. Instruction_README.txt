@@ -1,0 +1,23 @@
+I apologize for the disorganization.
+INSTRUCTION: 
+
+signin.php is the main connection to proceed to the dashboard.
+USERNAME: admin
+PASSWORD: 12345
+
+There are errors in the directories to which I was not able to access it
+even though the lines of codes are correct.
+
+After logging in, the system will lead you to the dashboard, and it will 
+show you the history of the admin's inputted data, and in the side bar, there
+are some of the connections that is required for the system.
+
+So, for the full functionality, after you click on the rooms for example,
+after you click from the rooms to another connections, it will occur an error,
+so you really have to go back to the dashboard and click another connections
+so that it will function still. 
+
+P.S This is the error, it says that the directory does not exist even though
+it's correct.
+
+How to solve it?
